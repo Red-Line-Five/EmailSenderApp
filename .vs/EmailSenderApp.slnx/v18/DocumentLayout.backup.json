@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\EmailSenderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|c:\\users\\user\\documents\\github\\emailsenderapp\\emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|solutionrelative:emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|C:\\Users\\user\\Documents\\GitHub\\EmailSenderApp\\emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|solutionrelative:emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|c:\\users\\user\\documents\\github\\emailsenderapp\\emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9862817-D75C-476F-894D-B65878FB8BF0}|EmailSenderApp\\EmailSenderApp.csproj|solutionrelative:emailsenderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\EmailSenderApp\\EmailSenderApp\\Form1.cs",
               "RelativeDocumentMoniker": "EmailSenderApp\\Form1.cs",
@@ -35,14 +35,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\EmailSenderApp\\EmailSenderApp\\Form1.cs",
               "RelativeDocumentMoniker": "EmailSenderApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\EmailSenderApp\\EmailSenderApp\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\EmailSenderApp\\EmailSenderApp\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\EmailSenderApp\\EmailSenderApp\\Form1.cs [Design]*",
+              "RelativeToolTip": "EmailSenderApp\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:53:42.153Z"
+              "WhenOpened": "2026-02-18T08:53:42.153Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "EmailSenderApp.slnx",
+    "projects": [
+      "EmailSenderApp\\EmailSenderApp.csproj"
+    ]
+  }
+}

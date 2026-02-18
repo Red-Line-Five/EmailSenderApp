@@ -41,21 +41,23 @@ namespace EmailSenderApp
 
                 message.Body = new TextPart("plain")
                 {
-                    Text = @"Hello,
+                    Text = $@"Hello,
 
 I hope you are doing well.
 
-My name is xxxxxx xxxxxxxx, and I am writing to express my interest in a [xxxxxxxxx] position within your organization. I have solid experience in C# Windows Forms, Oracle, and SQL Server, and I would welcome the opportunity to contribute to your team.
+My name is [Your Name], and I am writing to express my interest in a [Position] position within your organization. 
 
 Please find my CV attached for your review. I would be happy to provide any additional information if needed.
 
 Thank you for your time and consideration. I look forward to the possibility of discussing how I can contribute to your company.
 
 Best regards,
-xxxxx xxxxxxx
-[number phone]
+[Your Name]
+[Phone Number]
 "
-                };
+
+            }
+            ;
 
                 // Attach CV
                 var attachment = new MimePart("application", "vnd.openxmlformats-officedocument.wordprocessingml.document")
